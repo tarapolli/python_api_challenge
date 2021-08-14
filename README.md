@@ -1,7 +1,7 @@
 # Python API project: What's the Weather Like?
 
 What's the weather like as we approach the equator?
-..
+.
 WeatherPy
 
 In order to analyze the weather, I created a Python script utilizing an API from the openweathermap site. The script is used to visualize the weather of 500+ randomly-selected cities throughout the world, varying distance to the equator. Then I created scatter plots for each map explaining these variables:
